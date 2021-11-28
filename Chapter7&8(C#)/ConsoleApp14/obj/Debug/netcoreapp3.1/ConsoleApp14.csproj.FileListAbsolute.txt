@@ -1,0 +1,6 @@
+C:\Users\35989\OneDrive\Документи\Projects_C#(Chapter6)\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.csproj.AssemblyReference.cache
+C:\Users\35989\OneDrive\Документи\Projects_C#(Chapter6)\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35989\OneDrive\Документи\Projects_C#(Chapter6)\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.AssemblyInfoInputs.cache
+C:\Users\35989\OneDrive\Документи\Projects_C#(Chapter6)\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.AssemblyInfo.cs
+C:\Users\35989\OneDrive\Документи\Projects_C#(Chapter6)\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.csproj.CoreCompileInputs.cache
+C:\Users\35989\OneDrive\Документи\Projects_C#(Chapter6)\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.pdb

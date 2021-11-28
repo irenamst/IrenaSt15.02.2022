@@ -1,0 +1,14 @@
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp44\bin\Debug\netcoreapp3.1\ConsoleApp44.exe
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp44\bin\Debug\netcoreapp3.1\ConsoleApp44.deps.json
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp44\bin\Debug\netcoreapp3.1\ConsoleApp44.runtimeconfig.json
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp44\bin\Debug\netcoreapp3.1\ConsoleApp44.runtimeconfig.dev.json
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp44\bin\Debug\netcoreapp3.1\ConsoleApp44.dll
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp44\bin\Debug\netcoreapp3.1\ConsoleApp44.pdb
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp44\obj\Debug\netcoreapp3.1\ConsoleApp44.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp44\obj\Debug\netcoreapp3.1\ConsoleApp44.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp44\obj\Debug\netcoreapp3.1\ConsoleApp44.AssemblyInfoInputs.cache
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp44\obj\Debug\netcoreapp3.1\ConsoleApp44.AssemblyInfo.cs
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp44\obj\Debug\netcoreapp3.1\ConsoleApp44.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp44\obj\Debug\netcoreapp3.1\ConsoleApp44.dll
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp44\obj\Debug\netcoreapp3.1\ConsoleApp44.pdb
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp44\obj\Debug\netcoreapp3.1\ConsoleApp44.genruntimeconfig.cache

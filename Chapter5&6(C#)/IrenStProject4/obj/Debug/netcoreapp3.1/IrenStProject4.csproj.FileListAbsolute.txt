@@ -1,0 +1,14 @@
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenStProject4\bin\Debug\netcoreapp3.1\IrenStProject4.exe
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenStProject4\bin\Debug\netcoreapp3.1\IrenStProject4.deps.json
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenStProject4\bin\Debug\netcoreapp3.1\IrenStProject4.runtimeconfig.json
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenStProject4\bin\Debug\netcoreapp3.1\IrenStProject4.runtimeconfig.dev.json
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenStProject4\bin\Debug\netcoreapp3.1\IrenStProject4.dll
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenStProject4\bin\Debug\netcoreapp3.1\IrenStProject4.pdb
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenStProject4\obj\Debug\netcoreapp3.1\IrenStProject4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenStProject4\obj\Debug\netcoreapp3.1\IrenStProject4.AssemblyInfoInputs.cache
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenStProject4\obj\Debug\netcoreapp3.1\IrenStProject4.AssemblyInfo.cs
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenStProject4\obj\Debug\netcoreapp3.1\IrenStProject4.csproj.CoreCompileInputs.cache
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenStProject4\obj\Debug\netcoreapp3.1\IrenStProject4.dll
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenStProject4\obj\Debug\netcoreapp3.1\IrenStProject4.pdb
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenStProject4\obj\Debug\netcoreapp3.1\IrenStProject4.genruntimeconfig.cache
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenStProject4\obj\Debug\netcoreapp3.1\IrenStProject4.csproj.AssemblyReference.cache

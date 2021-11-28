@@ -1,0 +1,13 @@
+C:\Users\35989\OneDrive\Документи\ProjectsC#\ConsoleApp56\bin\Debug\netcoreapp3.1\ConsoleApp56.exe
+C:\Users\35989\OneDrive\Документи\ProjectsC#\ConsoleApp56\bin\Debug\netcoreapp3.1\ConsoleApp56.deps.json
+C:\Users\35989\OneDrive\Документи\ProjectsC#\ConsoleApp56\bin\Debug\netcoreapp3.1\ConsoleApp56.runtimeconfig.json
+C:\Users\35989\OneDrive\Документи\ProjectsC#\ConsoleApp56\bin\Debug\netcoreapp3.1\ConsoleApp56.runtimeconfig.dev.json
+C:\Users\35989\OneDrive\Документи\ProjectsC#\ConsoleApp56\bin\Debug\netcoreapp3.1\ConsoleApp56.dll
+C:\Users\35989\OneDrive\Документи\ProjectsC#\ConsoleApp56\bin\Debug\netcoreapp3.1\ConsoleApp56.pdb
+C:\Users\35989\OneDrive\Документи\ProjectsC#\ConsoleApp56\obj\Debug\netcoreapp3.1\ConsoleApp56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35989\OneDrive\Документи\ProjectsC#\ConsoleApp56\obj\Debug\netcoreapp3.1\ConsoleApp56.AssemblyInfoInputs.cache
+C:\Users\35989\OneDrive\Документи\ProjectsC#\ConsoleApp56\obj\Debug\netcoreapp3.1\ConsoleApp56.AssemblyInfo.cs
+C:\Users\35989\OneDrive\Документи\ProjectsC#\ConsoleApp56\obj\Debug\netcoreapp3.1\ConsoleApp56.csproj.CoreCompileInputs.cache
+C:\Users\35989\OneDrive\Документи\ProjectsC#\ConsoleApp56\obj\Debug\netcoreapp3.1\ConsoleApp56.dll
+C:\Users\35989\OneDrive\Документи\ProjectsC#\ConsoleApp56\obj\Debug\netcoreapp3.1\ConsoleApp56.pdb
+C:\Users\35989\OneDrive\Документи\ProjectsC#\ConsoleApp56\obj\Debug\netcoreapp3.1\ConsoleApp56.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\35989\OneDrive\Документи\ProjectsC#From 1 to 6 chapter\ConsoleApp68\bin\Debug\netcoreapp3.1\ConsoleApp68.exe
+C:\Users\35989\OneDrive\Документи\ProjectsC#From 1 to 6 chapter\ConsoleApp68\bin\Debug\netcoreapp3.1\ConsoleApp68.deps.json
+C:\Users\35989\OneDrive\Документи\ProjectsC#From 1 to 6 chapter\ConsoleApp68\bin\Debug\netcoreapp3.1\ConsoleApp68.runtimeconfig.json
+C:\Users\35989\OneDrive\Документи\ProjectsC#From 1 to 6 chapter\ConsoleApp68\bin\Debug\netcoreapp3.1\ConsoleApp68.runtimeconfig.dev.json
+C:\Users\35989\OneDrive\Документи\ProjectsC#From 1 to 6 chapter\ConsoleApp68\bin\Debug\netcoreapp3.1\ConsoleApp68.dll
+C:\Users\35989\OneDrive\Документи\ProjectsC#From 1 to 6 chapter\ConsoleApp68\bin\Debug\netcoreapp3.1\ConsoleApp68.pdb
+C:\Users\35989\OneDrive\Документи\ProjectsC#From 1 to 6 chapter\ConsoleApp68\obj\Debug\netcoreapp3.1\ConsoleApp68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35989\OneDrive\Документи\ProjectsC#From 1 to 6 chapter\ConsoleApp68\obj\Debug\netcoreapp3.1\ConsoleApp68.AssemblyInfoInputs.cache
+C:\Users\35989\OneDrive\Документи\ProjectsC#From 1 to 6 chapter\ConsoleApp68\obj\Debug\netcoreapp3.1\ConsoleApp68.AssemblyInfo.cs
+C:\Users\35989\OneDrive\Документи\ProjectsC#From 1 to 6 chapter\ConsoleApp68\obj\Debug\netcoreapp3.1\ConsoleApp68.csproj.CoreCompileInputs.cache
+C:\Users\35989\OneDrive\Документи\ProjectsC#From 1 to 6 chapter\ConsoleApp68\obj\Debug\netcoreapp3.1\ConsoleApp68.dll
+C:\Users\35989\OneDrive\Документи\ProjectsC#From 1 to 6 chapter\ConsoleApp68\obj\Debug\netcoreapp3.1\ConsoleApp68.pdb
+C:\Users\35989\OneDrive\Документи\ProjectsC#From 1 to 6 chapter\ConsoleApp68\obj\Debug\netcoreapp3.1\ConsoleApp68.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp68\ConsoleApp68\bin\Debug\ConsoleApp68.exe.config
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp68\ConsoleApp68\bin\Debug\ConsoleApp68.exe
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp68\ConsoleApp68\bin\Debug\ConsoleApp68.pdb
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp68\ConsoleApp68\obj\Debug\ConsoleApp68.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp68\ConsoleApp68\obj\Debug\ConsoleApp68.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp68\ConsoleApp68\obj\Debug\ConsoleApp68.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp68\ConsoleApp68\obj\Debug\ConsoleApp68.exe
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp68\ConsoleApp68\obj\Debug\ConsoleApp68.pdb

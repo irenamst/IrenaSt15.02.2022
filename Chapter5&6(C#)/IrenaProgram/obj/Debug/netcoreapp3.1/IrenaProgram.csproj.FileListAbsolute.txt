@@ -1,0 +1,14 @@
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenaProgram\bin\Debug\netcoreapp3.1\IrenaProgram.exe
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenaProgram\bin\Debug\netcoreapp3.1\IrenaProgram.deps.json
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenaProgram\bin\Debug\netcoreapp3.1\IrenaProgram.runtimeconfig.json
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenaProgram\bin\Debug\netcoreapp3.1\IrenaProgram.runtimeconfig.dev.json
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenaProgram\bin\Debug\netcoreapp3.1\IrenaProgram.dll
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenaProgram\bin\Debug\netcoreapp3.1\IrenaProgram.pdb
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenaProgram\obj\Debug\netcoreapp3.1\IrenaProgram.csproj.AssemblyReference.cache
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenaProgram\obj\Debug\netcoreapp3.1\IrenaProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenaProgram\obj\Debug\netcoreapp3.1\IrenaProgram.AssemblyInfoInputs.cache
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenaProgram\obj\Debug\netcoreapp3.1\IrenaProgram.AssemblyInfo.cs
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenaProgram\obj\Debug\netcoreapp3.1\IrenaProgram.csproj.CoreCompileInputs.cache
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenaProgram\obj\Debug\netcoreapp3.1\IrenaProgram.dll
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenaProgram\obj\Debug\netcoreapp3.1\IrenaProgram.pdb
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenaProgram\obj\Debug\netcoreapp3.1\IrenaProgram.genruntimeconfig.cache

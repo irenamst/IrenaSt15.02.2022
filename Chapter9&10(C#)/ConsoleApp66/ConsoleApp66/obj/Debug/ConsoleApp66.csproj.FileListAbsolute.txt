@@ -1,0 +1,8 @@
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp66\ConsoleApp66\bin\Debug\ConsoleApp66.exe.config
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp66\ConsoleApp66\bin\Debug\ConsoleApp66.exe
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp66\ConsoleApp66\bin\Debug\ConsoleApp66.pdb
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp66\ConsoleApp66\obj\Debug\ConsoleApp66.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp66\ConsoleApp66\obj\Debug\ConsoleApp66.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp66\ConsoleApp66\obj\Debug\ConsoleApp66.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp66\ConsoleApp66\obj\Debug\ConsoleApp66.exe
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp66\ConsoleApp66\obj\Debug\ConsoleApp66.pdb

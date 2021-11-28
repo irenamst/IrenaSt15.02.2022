@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wyaTq8953HHEUKzKFb7qhy9v54/N1Dzww5LYO4vEDHsFhweyEeCtClRVfDEFUa2keHuT5VMxrTs7dau/rBidNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\35989\\source\\repos\\Chapter3&4(C#)\\ConsoleApp20\\ConsoleApp20.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\35989\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\35989\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\35989\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\35989\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,2 @@
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp59\ConsoleApp59\obj\Debug\ConsoleApp59.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp59\ConsoleApp59\obj\Debug\ConsoleApp59.csproj.CoreCompileInputs.cache

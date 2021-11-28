@@ -1,0 +1,8 @@
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp27\ConsoleApp27\bin\Debug\ConsoleApp27.exe.config
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp27\ConsoleApp27\bin\Debug\ConsoleApp27.exe
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp27\ConsoleApp27\bin\Debug\ConsoleApp27.pdb
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.exe
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.pdb

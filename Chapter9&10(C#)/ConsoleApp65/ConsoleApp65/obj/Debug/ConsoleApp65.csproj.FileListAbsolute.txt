@@ -1,0 +1,7 @@
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp65\ConsoleApp65\bin\Debug\ConsoleApp65.exe.config
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp65\ConsoleApp65\bin\Debug\ConsoleApp65.exe
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp65\ConsoleApp65\bin\Debug\ConsoleApp65.pdb
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp65\ConsoleApp65\obj\Debug\ConsoleApp65.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp65\ConsoleApp65\obj\Debug\ConsoleApp65.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp65\ConsoleApp65\obj\Debug\ConsoleApp65.exe
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp65\ConsoleApp65\obj\Debug\ConsoleApp65.pdb

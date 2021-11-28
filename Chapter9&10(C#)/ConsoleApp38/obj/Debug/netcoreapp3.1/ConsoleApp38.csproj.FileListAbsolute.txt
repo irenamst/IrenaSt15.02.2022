@@ -1,0 +1,13 @@
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp38\bin\Debug\netcoreapp3.1\ConsoleApp38.exe
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp38\bin\Debug\netcoreapp3.1\ConsoleApp38.deps.json
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp38\bin\Debug\netcoreapp3.1\ConsoleApp38.runtimeconfig.json
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp38\bin\Debug\netcoreapp3.1\ConsoleApp38.runtimeconfig.dev.json
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp38\bin\Debug\netcoreapp3.1\ConsoleApp38.dll
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp38\bin\Debug\netcoreapp3.1\ConsoleApp38.pdb
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp38\obj\Debug\netcoreapp3.1\ConsoleApp38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp38\obj\Debug\netcoreapp3.1\ConsoleApp38.AssemblyInfoInputs.cache
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp38\obj\Debug\netcoreapp3.1\ConsoleApp38.AssemblyInfo.cs
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp38\obj\Debug\netcoreapp3.1\ConsoleApp38.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp38\obj\Debug\netcoreapp3.1\ConsoleApp38.dll
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp38\obj\Debug\netcoreapp3.1\ConsoleApp38.pdb
+C:\Users\35989\source\repos\Chapter9&10(C#)\ConsoleApp38\obj\Debug\netcoreapp3.1\ConsoleApp38.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XxO1rqLpxMWUtnpS1vPgjAfb3F8QXxViRI6idrM97/X+N8xaWsnIiLh/h3daUbm6TRQm0Tp7TxMdkxV7i1mFnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\35989\\source\\repos\\Chapter5&6(C#)\\IrenaProgram\\IrenaProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\35989\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\35989\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\35989\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\35989\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

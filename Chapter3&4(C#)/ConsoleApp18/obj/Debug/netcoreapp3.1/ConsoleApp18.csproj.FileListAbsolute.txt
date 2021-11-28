@@ -1,0 +1,14 @@
+C:\Users\35989\OneDrive\Документи\ProjectsInC#In3And4\ConsoleApp18\bin\Debug\netcoreapp3.1\ConsoleApp18.exe
+C:\Users\35989\OneDrive\Документи\ProjectsInC#In3And4\ConsoleApp18\bin\Debug\netcoreapp3.1\ConsoleApp18.deps.json
+C:\Users\35989\OneDrive\Документи\ProjectsInC#In3And4\ConsoleApp18\bin\Debug\netcoreapp3.1\ConsoleApp18.runtimeconfig.json
+C:\Users\35989\OneDrive\Документи\ProjectsInC#In3And4\ConsoleApp18\bin\Debug\netcoreapp3.1\ConsoleApp18.runtimeconfig.dev.json
+C:\Users\35989\OneDrive\Документи\ProjectsInC#In3And4\ConsoleApp18\bin\Debug\netcoreapp3.1\ConsoleApp18.dll
+C:\Users\35989\OneDrive\Документи\ProjectsInC#In3And4\ConsoleApp18\bin\Debug\netcoreapp3.1\ConsoleApp18.pdb
+C:\Users\35989\OneDrive\Документи\ProjectsInC#In3And4\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.csproj.AssemblyReference.cache
+C:\Users\35989\OneDrive\Документи\ProjectsInC#In3And4\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35989\OneDrive\Документи\ProjectsInC#In3And4\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.AssemblyInfoInputs.cache
+C:\Users\35989\OneDrive\Документи\ProjectsInC#In3And4\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.AssemblyInfo.cs
+C:\Users\35989\OneDrive\Документи\ProjectsInC#In3And4\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.csproj.CoreCompileInputs.cache
+C:\Users\35989\OneDrive\Документи\ProjectsInC#In3And4\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.dll
+C:\Users\35989\OneDrive\Документи\ProjectsInC#In3And4\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.pdb
+C:\Users\35989\OneDrive\Документи\ProjectsInC#In3And4\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.genruntimeconfig.cache

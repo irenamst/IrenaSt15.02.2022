@@ -1,0 +1,8 @@
+C:\Users\35989\source\repos\Chapter21&22(C#)\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+C:\Users\35989\source\repos\Chapter21&22(C#)\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+C:\Users\35989\source\repos\Chapter21&22(C#)\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+C:\Users\35989\source\repos\Chapter21&22(C#)\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\Chapter21&22(C#)\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\Chapter21&22(C#)\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\Chapter21&22(C#)\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+C:\Users\35989\source\repos\Chapter21&22(C#)\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.pdb

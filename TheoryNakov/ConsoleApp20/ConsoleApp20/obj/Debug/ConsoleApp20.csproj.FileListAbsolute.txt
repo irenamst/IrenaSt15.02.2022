@@ -1,0 +1,8 @@
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.exe.config
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.exe
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.pdb
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.exe
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.pdb

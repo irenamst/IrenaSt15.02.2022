@@ -1,0 +1,8 @@
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp56\ConsoleApp56\bin\Debug\ConsoleApp56.exe.config
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp56\ConsoleApp56\bin\Debug\ConsoleApp56.exe
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp56\ConsoleApp56\bin\Debug\ConsoleApp56.pdb
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp56\ConsoleApp56\obj\Debug\ConsoleApp56.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp56\ConsoleApp56\obj\Debug\ConsoleApp56.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp56\ConsoleApp56\obj\Debug\ConsoleApp56.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp56\ConsoleApp56\obj\Debug\ConsoleApp56.exe
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp56\ConsoleApp56\obj\Debug\ConsoleApp56.pdb

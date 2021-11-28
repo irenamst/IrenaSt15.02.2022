@@ -1,0 +1,9 @@
+C:\Users\35989\source\repos\P1\bin\Debug\P1.exe.config
+C:\Users\35989\source\repos\P1\bin\Debug\P1.exe
+C:\Users\35989\source\repos\P1\bin\Debug\P1.pdb
+C:\Users\35989\source\repos\P1\obj\Debug\P1.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\P1\obj\Debug\P1.Form1.resources
+C:\Users\35989\source\repos\P1\obj\Debug\P1.csproj.GenerateResource.cache
+C:\Users\35989\source\repos\P1\obj\Debug\P1.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\P1\obj\Debug\P1.exe
+C:\Users\35989\source\repos\P1\obj\Debug\P1.pdb

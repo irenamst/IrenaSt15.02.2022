@@ -1,0 +1,7 @@
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp51\ConsoleApp51\bin\Debug\ConsoleApp51.exe.config
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp51\ConsoleApp51\bin\Debug\ConsoleApp51.exe
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp51\ConsoleApp51\bin\Debug\ConsoleApp51.pdb
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp51\ConsoleApp51\obj\Debug\ConsoleApp51.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp51\ConsoleApp51\obj\Debug\ConsoleApp51.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp51\ConsoleApp51\obj\Debug\ConsoleApp51.exe
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp51\ConsoleApp51\obj\Debug\ConsoleApp51.pdb

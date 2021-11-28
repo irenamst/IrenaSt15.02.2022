@@ -1,0 +1,13 @@
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenásProj\bin\Debug\netcoreapp3.1\IrenásProj.exe
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenásProj\bin\Debug\netcoreapp3.1\IrenásProj.deps.json
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenásProj\bin\Debug\netcoreapp3.1\IrenásProj.runtimeconfig.json
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenásProj\bin\Debug\netcoreapp3.1\IrenásProj.runtimeconfig.dev.json
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenásProj\bin\Debug\netcoreapp3.1\IrenásProj.dll
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenásProj\bin\Debug\netcoreapp3.1\IrenásProj.pdb
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenásProj\obj\Debug\netcoreapp3.1\IrenásProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenásProj\obj\Debug\netcoreapp3.1\IrenásProj.AssemblyInfoInputs.cache
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenásProj\obj\Debug\netcoreapp3.1\IrenásProj.AssemblyInfo.cs
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenásProj\obj\Debug\netcoreapp3.1\IrenásProj.csproj.CoreCompileInputs.cache
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenásProj\obj\Debug\netcoreapp3.1\IrenásProj.dll
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenásProj\obj\Debug\netcoreapp3.1\IrenásProj.pdb
+C:\Users\35989\OneDrive\Документи\ProjectsC#\IrenásProj\obj\Debug\netcoreapp3.1\IrenásProj.genruntimeconfig.cache

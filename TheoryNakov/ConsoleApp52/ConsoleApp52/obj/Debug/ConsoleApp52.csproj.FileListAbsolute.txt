@@ -1,0 +1,3 @@
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp52\ConsoleApp52\obj\Debug\ConsoleApp52.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp52\ConsoleApp52\obj\Debug\ConsoleApp52.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp52\ConsoleApp52\obj\Debug\ConsoleApp52.csproj.CoreCompileInputs.cache

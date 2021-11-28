@@ -1,0 +1,8 @@
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe.config
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.pdb
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.exe
+C:\Users\35989\source\repos\TheoryNakov\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.pdb
